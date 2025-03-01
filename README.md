@@ -15,7 +15,6 @@
 
 ### AES Ohio *(Dayton, OH)*
 **T&D Project Planning Engineer Summer Intern** *(May 2024 - July 2024)*
-
 - Developed an interactive cost-estimating tool using Excel and VBA by mining the company’s historical supply-chain data and contracts from SAP, which eliminated the need for contracting firms and freed up budget for more critical tasks
 - Created a preliminary scope, estimate, and schedule for an incoming $500M CapEx customer project, with the results used to sign the Memorandum of Understanding and the Customer Service Agreement
 - Developed a KPI for capital projects prioritization to forecast investments’ impacts on customer rates, enabling executive decision-making on incoming projects
@@ -46,3 +45,11 @@
 - **AI-Driven Energy Demand Forecasting**
 - **MIT Energy & Climate Hackathon**
 - **Atom-Field Interactions**
+
+## Leadership
+### University of Dayton Chess Club *(Dayton, OH)*
+**Co-Founder & Vice President** *(August 2021 - December 2023)*
+- Expanded memberships from 65 to 140 members in 2023 by engaging in student involvement fairs and speaking in classrooms
+- Secured $1,000 from student government to purchase 20 chess boards and clocks to accommodate for member growth
+- Organized and directed friendly tournaments for university students, and formed a team to compete in USCF competitive events
+- Leveraged online platforms, such as Chess.com and LiChess to form a community of university students, faculty, and alumni
