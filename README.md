@@ -41,7 +41,7 @@
 ## Projects
 
 ### Data, Inference, and Applied Machine Learning
-- **Assignment 1: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment1.pdf) / [Jupyter Notebook](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment1.ipynb)**
+- **Assignment 1: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment1.pdf) / [Jupyter Notebook]((https://nbviewer.org/github/anthonyrizkallah/anthonyrizkallah.github.io/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment1.ipynb))**
 - **Assignment 2**
 - **Assignment 3**
 - **Assignment 4**
