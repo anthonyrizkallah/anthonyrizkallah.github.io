@@ -4,12 +4,15 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-a {
-    color: #BB86FC; /* Neon purple */
+/* Ensure all links have the same color */
+a, a:visited, a:active {
+    color: #BB86FC !important; /* Keeps all links the same */
+    text-decoration: none;
 }
 
 a:hover {
-    color: #FF4081; /* Pink hover effect */
+    color: #FF4081 !important; /* Ensures consistency on hover */
+    text-decoration: underline;
 }
 
 img {
