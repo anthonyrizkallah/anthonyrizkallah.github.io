@@ -3,8 +3,8 @@ logo: assets/me.jpg
 theme: jekyll-theme-minimal
 remote_theme: jekyll/minima
 plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-seo-tag
+jekyll-remote-theme
+jekyll-sitemap
+jekyll-seo-tag
 include:
-  - assets/style.css
+assets/style.css
