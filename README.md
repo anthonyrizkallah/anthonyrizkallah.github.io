@@ -1,5 +1,4 @@
 # Data-Driven Scientist
-logo: https://github.com/anthonyrizkallah/private_assets/blob/main/dc.jpg
 
 ## Education
 
