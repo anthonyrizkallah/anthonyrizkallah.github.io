@@ -1,5 +1,5 @@
 # Data-Driven Scientist
-
+![Profile Picture](private_assets/dc.jpg)
 ## Education
 
 ### Carnegie Mellon University *(Pittsburgh, PA)*  
