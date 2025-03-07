@@ -1,4 +1,4 @@
-# Data-Driven Energy Innovator
+# Data-Driven Scientist
 
 ## Education
 
