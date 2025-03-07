@@ -42,13 +42,12 @@
 
 ### Data, Inference, and Applied Machine Learning
 - **Assignment 1: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment1.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment1.ipynb)**
-- **Assignment 2**
-- **Assignment 3**
-- **Assignment 4**
-- **Assignment 5**
-- **Assignment 6**
-- **Assignment 7**
-- **Assignment 8**
+- **Assignment 2: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment2.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment2.ipynb)**
+- **Assignment 3: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment3.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment3.ipynb)**
+- **Assignment 4: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment4.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment4.ipynb)**
+- **Assignment 5: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment5.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment5.ipynb)**
+- **Assignment 6: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment6.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment6.ipynb)**
+- **Assignment 7: [Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment7.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment7.ipynb)**
 
 ### Data Analytics
 - **Assignment 1**
