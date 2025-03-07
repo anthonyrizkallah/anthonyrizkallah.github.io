@@ -1,1 +1,46 @@
+/* 🌙 Enable Dark Mode */
+body {
+    background-color: #121212; /* Dark background */
+    color: #E0E0E0; /* Light text */
+    font-family: 'Poppins', sans-serif; /* Modern font */
+}
 
+/* 🌐 Change Link Colors */
+a {
+    color: #BB86FC; /* Neon purple */
+}
+
+a:hover {
+    color: #FF4081; /* Pink hover effect */
+}
+
+/* 🖼️ Style the Logo */
+img {
+    max-width: 150px; /* Adjust logo size */
+    border-radius: 50%; /* Make it circular */
+    display: block;
+    margin: 20px auto;
+}
+
+/* 📌 Modify Headers */
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif; /* Modern heading font */
+    color: #FFFFFF; /* Bright white for contrast */
+}
+
+/* 📦 Add Box Styling */
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #1E1E1E;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* 📱 Responsive Text */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+}
