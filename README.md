@@ -1,5 +1,6 @@
 # Data-Driven Scientist
-![Profile Picture](https://github.com/anthonyrizkallah/private_assets/blob/main/dc.jpg)
+logo: https://github.com/anthonyrizkallah/private_assets/blob/main/dc.jpg
+
 ## Education
 
 ### Carnegie Mellon University *(Pittsburgh, PA)*  
