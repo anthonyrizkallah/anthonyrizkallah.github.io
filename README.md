@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="assets/style.css">
-
 # Data-Driven Scientist
 
 ## Education
