@@ -52,7 +52,7 @@
 ### Data Analytics
 - **Weather-Driven Energy Consumption Modeling: Regression Analysis, Forecasting, and Overfitting Prevention: [Report](Data Analytics/arizkall_DA_Assignment1.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%20Analytics/arizkall_DA_Assignment1.ipynb)**
 - **Wind Power Forecasting and Variability Analysis: Statistical Modeling and Time-Series Methods: [Report](Data Analytics/arizkall_DA_Assignment2.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%20Analytics/arizkall_DA_Assignment2.ipynb)**
-- **Assignment 1: [Report](Data Analytics/arizkall_DA_Assignment3.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%20Analytics/arizkall_DA_Assignment3.ipynb)**
+- **Electricity Demand Forecasting: Seasonality Analysis, Behavioral Patterns, and Predictive Modeling: [Report](Data Analytics/arizkall_DA_Assignment3.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%20Analytics/arizkall_DA_Assignment3.ipynb)**
 
 
 - **Supercharging Electric Vehicles in Allegheny County**
