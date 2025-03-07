@@ -1,3 +1,10 @@
+/* Remove hyperlink from title */
+.site-title a {
+    pointer-events: none;
+    color: #FFFFFF !important; /* Ensures title color remains */
+    text-decoration: none !important;
+}
+
 /* Force custom background and text colors */
 body {
     background-color: #121212 !important;
