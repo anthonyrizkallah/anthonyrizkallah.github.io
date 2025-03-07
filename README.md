@@ -40,6 +40,22 @@
 
 ## Projects
 
+### Data, Inference, and Applied Machine Learning
+- **Assignment 1**
+- **Assignment 2**
+- **Assignment 3**
+- **Assignment 4**
+- **Assignment 5**
+- **Assignment 6**
+- **Assignment 7**
+- **Assignment 8**
+
+### Data Analytics
+- **Assignment 1**
+- **Assignment 1**
+- **Assignment 1**
+
+
 - **Supercharging Electric Vehicles in Allegheny County**
 - **Energy Demand Forecasting in France**
 - **AI-Driven Energy Demand Forecasting**
