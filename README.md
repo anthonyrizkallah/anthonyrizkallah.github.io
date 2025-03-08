@@ -60,4 +60,4 @@
 - **Principal Component Analysis, Hierarchical Clustering, and Ensemble Learning: Dimensionality Reduction and Predictive Modeling ([Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment7.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment7.ipynb))**
 
 ## Electric Vehicles
-- **EV Charging Infrastructure: Assessing Market Trends, Policy Impacts, and Competitive Landscape of *Gravity Technologies ([Report](EVs/arizkall_Final.pdf)***
+- **EV Charging Infrastructure: Assessing Market Trends, Policy Impacts, and Competitive Landscape of *Gravity Technologies ([Report](EVs/arizkall_Final.pdf))***
