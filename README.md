@@ -49,6 +49,7 @@
 - **Weather-Driven Energy Consumption Modeling: Regression Analysis, Forecasting, and Overfitting Prevention ([Report](Data Analytics/arizkall_DA_Assignment1.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%20Analytics/arizkall_DA_Assignment1.ipynb))**
 - **Wind Power Forecasting and Variability Analysis: Statistical Modeling and Time-Series Methods ([Report](Data Analytics/arizkall_DA_Assignment2.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%20Analytics/arizkall_DA_Assignment2.ipynb))**
 - **Electricity Demand Forecasting: Seasonality Analysis, Behavioral Patterns, and Predictive Modeling ([Report](Data Analytics/arizkall_DA_Assignment3.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%20Analytics/arizkall_DA_Assignment3.ipynb))**
+- 
 
 ## Machine Learning
 - **Mathematical and Statistical Foundations of Machine Learning: Growth Models, Optimization, and Financial Analysis ([Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment1.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment1.ipynb))**
@@ -60,4 +61,4 @@
 - **Principal Component Analysis, Hierarchical Clustering, and Ensemble Learning: Dimensionality Reduction and Predictive Modeling ([Report](Data, Inference, and Applied Machine Learning/arizkall_DIAML_Assignment7.pdf) / [Jupyter Notebook](https://github.com/anthonyrizkallah/anthonyrizkallah.github.io/blob/main/Data%2C%20Inference%2C%20and%20Applied%20Machine%20Learning/arizkall_DIAML_Assignment7.ipynb))**
 
 ## Electric Vehicles
-- **EV Charging Infrastructure: Assessing Market Trends, Policy Impacts, and Competitive Landscape of *Gravity Technologies ([Report](EVs/arizkall_Final.pdf))***
+- **EV Charging Infrastructure: Assessing Market Trends, Policy Impacts, and Competitive Landscape of *Gravity Technologies ([Report](EVs/arizkall_TSB_Final.pdf))***
