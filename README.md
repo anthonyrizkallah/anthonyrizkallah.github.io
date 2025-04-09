@@ -62,3 +62,4 @@
 
 ## Electric Vehicles
 - **EV Charging Infrastructure: Assessing Market Trends, Policy Impacts, and Competitive Landscape of *Gravity Technologies ([Report](EVs/arizkall_TSB_Final.pdf))***
+- **EV Charging Infrastructure: Supercharging EVs in Allegheny County, PA *Gravity Technologies ([Report](EVs/ESTP-poster-horizontal.pdf))***
