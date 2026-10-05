@@ -45,6 +45,17 @@ h1, h2, h3 {
 
 /* ===== Portfolio ===== */
 
+/* Page wrapper (replaces the theme's layout) */
+body {
+    margin: 0;
+}
+
+.page {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px 60px;
+}
+
 /* Name header */
 .hero {
     text-align: center;
