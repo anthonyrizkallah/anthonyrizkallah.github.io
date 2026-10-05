@@ -1,0 +1,17 @@
+<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Power Terminal Logo</title>
+  <desc>Power Terminal logo with green square PT monogram and bold wordmark</desc>
+
+  <!-- Green square mark -->
+  <rect x="0" y="12" width="52" height="52" rx="4" fill="#1a7a3a"/>
+
+  <!-- PT monogram -->
+  <text x="26" y="46" font-family="'Instrument Sans', 'Helvetica Neue', Arial, sans-serif"
+        font-size="22" font-weight="700" fill="#ffffff"
+        text-anchor="middle" letter-spacing="-0.5">PT</text>
+
+  <!-- Wordmark -->
+  <text x="68" y="43" font-family="'Instrument Sans', 'Helvetica Neue', Arial, sans-serif"
+        font-size="20" font-weight="700" fill="#1a1814"
+        letter-spacing="1.8">POWER TERMINAL</text>
+</svg>
