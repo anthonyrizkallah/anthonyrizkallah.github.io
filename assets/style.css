@@ -1,3 +1,6 @@
+/* Load the fonts used below */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Poppins:wght@400;500;600&display=swap');
+
 /* Remove hyperlink from title */
 .site-title a {
     pointer-events: none;
@@ -10,6 +13,7 @@ body {
     background-color: #121212 !important;
     color: #E0E0E0 !important;
     font-family: 'Poppins', sans-serif !important;
+    line-height: 1.6;
 }
 
 /* Ensure all links follow custom colors */
@@ -39,9 +43,117 @@ h1, h2, h3 {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
+/* ===== Portfolio ===== */
+
+/* Name header */
+.hero {
+    text-align: center;
+    padding: 40px 0 24px;
+}
+
+.hero h1 {
+    font-size: 2.6em;
+    font-weight: 800;
+    margin: 0;
+    letter-spacing: -0.02em;
+    border: none !important;
+}
+
+.hero .tagline {
+    color: #A0A0A0;
+    margin: 8px 0 16px;
+    font-size: 1.05em;
+}
+
+.hero .links a {
+    margin: 0 10px;
+    font-weight: 500;
+}
+
+/* Section heading */
+.section-title {
+    font-size: 1.4em;
+    margin: 32px 0 20px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #2C2C2C !important;
+}
+
+/* Grid of project cards (one card now, more later) */
+.projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+}
+
+.project-card {
+    background-color: #1E1E1E;
+    border: 1px solid #2C2C2C;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-4px);
+    border-color: #BB86FC;
+    box-shadow: 0 10px 28px rgba(187, 134, 252, 0.18);
+}
+
+/* Image fills the top of the card; no underline on the image link */
+.project-card .thumb,
+.project-card .thumb:hover {
+    display: block;
+    text-decoration: none !important;
+}
+
+.project-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: #0F0F0F;
+    border-bottom: 1px solid #2C2C2C;
+}
+
+.project-card .body {
+    padding: 20px 22px 22px;
+}
+
+.project-card h3 {
+    margin: 0 0 8px;
+    font-size: 1.3em;
+}
+
+.project-card p {
+    margin: 0 0 16px;
+    color: #BDBDBD;
+    font-size: 0.95em;
+}
+
+.project-card .tags {
+    margin-bottom: 16px;
+}
+
+.project-card .tags span {
+    display: inline-block;
+    font-size: 0.75em;
+    padding: 3px 10px;
+    margin: 0 6px 6px 0;
+    border-radius: 999px;
+    background-color: #2A2238;
+    color: #CDB4FF;
+}
+
+.project-card .visit {
+    font-weight: 600;
+}
+
 /* 📱 Responsive Text */
 @media (max-width: 768px) {
     body {
         font-size: 16px;
+    }
+    .hero h1 {
+        font-size: 2em;
     }
 }
